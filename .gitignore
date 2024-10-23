@@ -4,3 +4,6 @@ Debug/
 KeyboardTester/Debug/
 WindowsUniversal/Debug/
 WindowsUniversal/Generated Files/
+KeyboardTester/KeyboardTester.obj
+KeyboardTester/KeyboardTester.pdb
+KeyboardTester/vc140.pdb
