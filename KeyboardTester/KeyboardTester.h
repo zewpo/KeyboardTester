@@ -5,7 +5,7 @@
 
 const int MAX_VK_CODE = 0xFE; // Maximum virtual key code
 const char* VK_KEYS[MAX_VK_CODE + 1] = { };
-void InitializeVKKeys() {
+static void InitializeVKKeys() {
     VK_KEYS[0x01] = "VK_LBUTTON";
     VK_KEYS[0x02] = "VK_RBUTTON";
     VK_KEYS[0x03] = "VK_CANCEL";
