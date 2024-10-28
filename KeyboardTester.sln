@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2041
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyboardTester", "KeyboardTester\KeyboardTester.vcxproj", "{08288821-1BC3-4CAE-BF2C-C6FE02BB97CF}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WindowsUniversal", "WindowsUniversal\WindowsUniversal.vcxproj", "{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,24 +25,6 @@ Global
 		{08288821-1BC3-4CAE-BF2C-C6FE02BB97CF}.Release|x64.Build.0 = Release|x64
 		{08288821-1BC3-4CAE-BF2C-C6FE02BB97CF}.Release|x86.ActiveCfg = Release|Win32
 		{08288821-1BC3-4CAE-BF2C-C6FE02BB97CF}.Release|x86.Build.0 = Release|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|ARM.ActiveCfg = Debug|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|ARM.Build.0 = Debug|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|ARM.Deploy.0 = Debug|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x64.ActiveCfg = Debug|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x64.Build.0 = Debug|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x64.Deploy.0 = Debug|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x86.ActiveCfg = Debug|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x86.Build.0 = Debug|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Debug|x86.Deploy.0 = Debug|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|ARM.ActiveCfg = Release|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|ARM.Build.0 = Release|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|ARM.Deploy.0 = Release|ARM
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x64.ActiveCfg = Release|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x64.Build.0 = Release|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x64.Deploy.0 = Release|x64
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x86.ActiveCfg = Release|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x86.Build.0 = Release|Win32
-		{8BB6AA78-B136-46CE-AA66-4D72C5C846A4}.Release|x86.Deploy.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
